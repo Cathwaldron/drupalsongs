@@ -26,9 +26,10 @@ Drupal, Drupal, Drupal, Drupal, Drupal,
 Drupal, Drupal, Drupal, Drupal, Drupal,    
    
 Time's running out so sweep away doubt    
-get ready to shout about. Drupal    
+get ready to shout about: Drupal!    
 With Starshot to show them, Drupal's the win win   
-dreams can come true, then, Drupal, Drupal, Drupal, Drupal, Drupal,   
+dreams can come true, then, Drupal.    
+Drupal, Drupal, Drupal, Drupal,   
 Drupal, Drupal, Drupal, Drupal, Drupal,   
 Drupal, Drupal, Drupal, Drupal, Drupal,   
 Drupal, Drupal, Drupal, Drupal, Drupal   
