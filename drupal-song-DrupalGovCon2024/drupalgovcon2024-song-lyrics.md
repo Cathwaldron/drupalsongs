@@ -43,17 +43,19 @@ Drupal, Drupal, Drupal, Drupal, Drupal,
 Drupal, Drupal, Drupal, Drupal, Drupal,    
 Drupal, Drupal, Drupal, Drupal, Drupal,    
 Drupal, Drupal, Drupal, Drupal, Drupal   
-   
-Reference   
-YouTube recordings of past performances of original drupal song by Jeff Robbins:
+      
+practice vocal audio file https://drive.google.com/file/d/1M-Pgt0uZ6xZnabamVpKyXIw5MkkCk7fT/view?usp=drive_link    
+    
+Reference       
+YouTube recordings of past performances of original drupal song by Jeff Robbins:    
 [https://youtu.be/-Sw47x4UwdA?si=0GhLtHJesDAWf6T2](https://youtu.be/-Sw47x4UwdA?si=0GhLtHJesDAWf6T2)   
-   
+       
 [https://youtu.be/-jubiv7QUco?si=9rOMLysdEtwxRdcN](https://youtu.be/-jubiv7QUco?si=9rOMLysdEtwxRdcN)   
-   
+    
 [https://m.youtube.com/watch?v=fdbFVWupSsw](https://m.youtube.com/watch?v=fdbFVWupSsw)   
-   
+    
 [https://www.lullabot.com/podcasts/drupalizeme-podcast/the-drupal-song?t\&utm\_source=perplexity   ](https://www.lullabot.com/podcasts/drupalizeme-podcast/the-drupal-song?t\&utm\_source=perplexity)
-   
+    
    
 *Thank you Mike H and Juaqín for remembering the original song and helping me figure out how it went. Catherine Waldron aka **cathwaldron** on drupal org and most socials.*    
    
@@ -62,9 +64,8 @@ YouTube recordings of past performances of original drupal song by Jeff Robbins:
 *More Drupal songs:*   
    
 ***Drupal Christmas Song**: [https://youtu.be/CdHfAMPyn0c?si=ycZYsKX0vnRNQaEU]   (https://youtu.be/CdHfAMPyn0c?si=ycZYsKX0vnRNQaEU)*   
-
-***DrupalCon Nashville prenote***   
-***karaoke**  [https://youtu.be/\_tGZxsTj2Bc?si=xMVMg3O40GjlBt3L](https://youtu.be/\_tGZxsTj2Bc?si=xMVMg3O40GjlBt3L)*   
+    
+***DrupalCon Nashville prenote karaoke***  [https://youtu.be/\_tGZxsTj2Bc?si=xMVMg3O40GjlBt3L](https://youtu.be/\_tGZxsTj2Bc?si=xMVMg3O40GjlBt3L)*   
    
 ***Drupal Rap** [https://youtu.be/3pX4iPEPA9A?si=zSOvAf94fBiImBj-](https://youtu.be/3pX4iPEPA9A?si=zSOvAf94fBiImBj-)*   
    
