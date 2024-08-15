@@ -1,4 +1,4 @@
-## **This document is now on github so that we can improve it and together.**
+## **This document is now on github so that we can improve it together.**
 
 ## https://github.com/Cathwaldron/drupalsongs.git
 ## drupalgovcon2024-song-lyrics.md
