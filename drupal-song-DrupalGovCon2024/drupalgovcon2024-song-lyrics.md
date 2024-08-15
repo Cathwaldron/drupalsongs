@@ -8,14 +8,16 @@
 *(apologies to Jeff Robbins)*
 
 You need a website. You need a system   
- to manage your content, Drupal. You want to build a web application.   
+to manage your content, Drupal.  
+You want to build a web application.   
 You've got to download Drupal.   
 Drupal, Drupal, Drupal, Drupal, Drupal.   
 Drupal, Drupal, Drupal, Drupal, Drupal,   
 Drupal, Drupal, Drupal, Drupal, Drupal.   
 Drupal, Drupal, Drupal, Drupal, Drupal,    
-
-You need digital transformation. With personalization. Drupal.   
+  
+You need digital transformation.  
+With personalization. Drupal.   
 Flexible modular customization   
 open source CMS Drupal.   
 Drupal, Drupal, Drupal, Drupal, Drupal.    
