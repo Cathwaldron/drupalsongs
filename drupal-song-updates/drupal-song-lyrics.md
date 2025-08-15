@@ -9,10 +9,10 @@
 
 How about...
 
-You need to **build** a custom sol**u**tion to structure your **con**tent -- **Dru**pal.
-Model relationships between different content types, build views that slice and dice -- Drupal.
-No need to fear complexity here the roadmap is clear with Drupal.
-Modules and themes and recipes give you tools to succeed with Drupal.
+You need to **build** a custom sol**u**tion to structure your **con**tent -- **Dru**pal.   
+Model rel**a**tionships be**tween** different **con**tent types, **build** views that **slice** and dice -- **Dru**pal.   
+No need to **fear** complexity **here** the road map is **clear** with **Dru**pal.   
+**Con**trib and **core** like **nev**er be**fore** to**geth**er do **more** with **Dru**pal.   
 
 
 
